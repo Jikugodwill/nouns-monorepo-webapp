@@ -43,6 +43,7 @@
     "ethers": "^5.6.8",
     "framer-motion": "^6.5.1",
     "graphql": "^15.5.1",
+    "node-gyp": "^8.4.1",
     "pngjs": "^6.0.0",
     "ramda": "^0.27.1",
     "react": "^17.0.2",
@@ -61,12 +62,12 @@
     "redux": "^4.1.0",
     "redux-devtools-extension": "^2.13.9",
     "remark-breaks": "^3.0.1",
-    "web-vitals": "^1.0.1",
-    "node-gyp": "^8.4.1"
+    "web-vitals": "^1.0.1"
   },
   "devDependencies": {
     "@types/bad-words": "^3.0.1",
     "@types/jest": "^26.0.15",
+    "@types/lodash.merge": "^4.6.7",
     "@types/node": "^12.0.0",
     "@types/pngjs": "^6.0.1",
     "@types/ramda": "^0.27.42",
@@ -75,7 +76,6 @@
     "@types/react-fontawesome": "^1.6.5",
     "@types/react-router-dom": "^5.1.7",
     "@types/react-transition-group": "^4.4.5",
-    "@types/lodash.merge": "^4.6.7",
     "dotenv": "^10.0.0"
   },
   "scripts": {
