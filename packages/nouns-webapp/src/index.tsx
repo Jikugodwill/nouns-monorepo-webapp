@@ -35,7 +35,7 @@ import config, {
 } from './config';
 import { WebSocketProvider } from '@ethersproject/providers';
 import { BigNumber, BigNumberish, Event } from 'ethers';
-import { NounsAuctionHouseFactory } from '../../nouns-sdk';
+import { NounsAuctionHouseFactory } from '@nouns/sdk';
 import dotenv from 'dotenv';
 import { useAppDispatch, useAppSelector } from './hooks';
 import { appendBid } from './state/slices/auction';
